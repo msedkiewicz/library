@@ -3,7 +3,7 @@ import { AddingBook } from './adding-book';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
 import { InMemoryBooks } from './in-memory-books';
-import { LibraryController } from './library.controller';
+import { LibraryController } from './book.controller';
 
 @Module({
   imports: [],
